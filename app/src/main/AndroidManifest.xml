@@ -12,7 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Android_project_24_retrofit"
         android:usesCleartextTraffic="true">
-        <activity android:name=".activities.DetailProduct"></activity>
+        <activity android:name=".activities.RegisterActivity2"></activity>
+        <activity android:name=".activities.LoginActivity" />
+        <activity android:name=".activities.DetailProduct" />
         <activity android:name=".activities.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
